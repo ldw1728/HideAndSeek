@@ -18,7 +18,16 @@ java socket network game
  서버는 각 클라이언트의 행동을 판단.
  
  ## 구동
-
+<img src="/HideAndSeek/c1.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/c2.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/server1.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/s2.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/v1.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/v2.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/v3.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/v4.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/v5.PNG" width="400" height="250"></img>
+<img src="/HideAndSeek/v6.PNG" width="400" height="250"></img>
  
  
  
